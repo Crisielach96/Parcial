@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1511354840 source:d:\users\cristian\desktop\mis cosas\utn fra\parcial 2 practica\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1510752496 d:\users\cristian\desktop\mis cosas\utn fra\parcial 2 practica\arraylist.h
+
+1512508383 source:d:\users\cristian\desktop\mis cosas\utn fra\parcial 2 practica\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1512507044 source:d:\users\cristian\desktop\mis cosas\utn fra\parcial 2 practica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1512507018 d:\users\cristian\desktop\mis cosas\utn fra\parcial 2 practica\funciones.h
+	"ArrayList.h"
+
