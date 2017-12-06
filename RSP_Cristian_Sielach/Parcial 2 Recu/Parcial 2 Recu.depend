@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1512565009 source:d:\rsp_cristian_sielach\parcial 2 recu\datamanager.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Employee.h"
+	"DataManager.h"
+
+1510752496 d:\rsp_cristian_sielach\parcial 2 recu\arraylist.h
+
+1512565009 d:\rsp_cristian_sielach\parcial 2 recu\employee.h
+
+1512565009 d:\rsp_cristian_sielach\parcial 2 recu\datamanager.h
+
+1512565009 source:d:\rsp_cristian_sielach\parcial 2 recu\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Employee.h"
+
+1512565009 source:d:\rsp_cristian_sielach\parcial 2 recu\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Employee.h"
+	"DataManager.h"
+
+1512566032 source:d:\rsp_cristian_sielach\parcial 2 recu\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Employee.h"
+
+1512565300 source:d:\rsp_cristian_sielach\parcial 2 recu\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
