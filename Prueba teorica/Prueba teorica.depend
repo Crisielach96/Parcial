@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1512960049 source:d:\users\cristian\desktop\mis cosas\utn fra\prueba teorica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
