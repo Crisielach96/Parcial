@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1562702601 source:c:\users\cris\desktop\final_laboratorioi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"validaciones.h"
+	"parser.h"
+	"ingrediente.h"
+	"receta.h"
+
+1562475470 c:\users\cris\desktop\final_laboratorioi\linkedlist.h
+
+1562475470 c:\users\cris\desktop\final_laboratorioi\validaciones.h
+
+1562475470 c:\users\cris\desktop\final_laboratorioi\parser.h
+	"LinkedList.h"
+
+1562475470 c:\users\cris\desktop\final_laboratorioi\ingrediente.h
+	"LinkedList.h"
+
+1562475470 c:\users\cris\desktop\final_laboratorioi\receta.h
+	"LinkedList.h"
+
+1562702663 source:c:\users\cris\desktop\final_laboratorioi\ingrediente.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"ingrediente.h"
+	"validaciones.h"
+	"receta.h"
+
+1562475470 source:c:\users\cris\desktop\final_laboratorioi\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	<string.h>
+
+1562475470 source:c:\users\cris\desktop\final_laboratorioi\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"parser.h"
+	"ingrediente.h"
+	"receta.h"
+
+1562475470 source:c:\users\cris\desktop\final_laboratorioi\receta.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<conio.h>
+	"validaciones.h"
+	"receta.h"
+	"ingrediente.h"
+	"LinkedList.h"
+
+1562475470 source:c:\users\cris\desktop\final_laboratorioi\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"validaciones.h"
+
