@@ -1,0 +1,126 @@
+# depslib dependency file v1.0
+1562768151 source:d:\nueva carpeta (2)\lamas2do\2do-parcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1562768161 d:\nueva carpeta (2)\lamas2do\2do-parcial\linkedlist.h
+
+1562770020 source:d:\nueva carpeta (2)\lamas2do\2do-parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"pelicula.h"
+	"parser.h"
+
+1562766493 d:\nueva carpeta (2)\lamas2do\2do-parcial\pelicula.h
+
+1562760510 d:\nueva carpeta (2)\lamas2do\2do-parcial\parser.h
+
+1562769342 source:d:\nueva carpeta (2)\lamas2do\2do-parcial\parser.c
+	<stdlib.h>
+	<stdio.h>
+	"parser.h"
+	"LinkedList.h"
+	"pelicula.h"
+
+1562766493 source:d:\nueva carpeta (2)\lamas2do\2do-parcial\pelicula.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pelicula.h"
+	"LinkedList.h"
+
+1562771032 source:c:\users\alumno\desktop\2do-parcial-master\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1562771032 c:\users\alumno\desktop\2do-parcial-master\linkedlist.h
+
+1562771032 source:c:\users\alumno\desktop\2do-parcial-master\parser.c
+	<stdlib.h>
+	<stdio.h>
+	"parser.h"
+	"LinkedList.h"
+	"pelicula.h"
+
+1562771032 c:\users\alumno\desktop\2do-parcial-master\parser.h
+
+1562771032 c:\users\alumno\desktop\2do-parcial-master\pelicula.h
+
+1562771032 source:c:\users\alumno\desktop\2do-parcial-master\pelicula.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pelicula.h"
+	"LinkedList.h"
+
+1562771032 source:d:\sielach.cristian\sielach.cristian\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1562771032 d:\sielach.cristian\sielach.cristian\linkedlist.h
+
+1562771643 source:d:\sielach.cristian\sielach.cristian\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"pelicula.h"
+	"parser.h"
+
+1562771032 d:\sielach.cristian\sielach.cristian\pelicula.h
+
+1562771032 d:\sielach.cristian\sielach.cristian\parser.h
+
+1562771032 source:d:\sielach.cristian\sielach.cristian\parser.c
+	<stdlib.h>
+	<stdio.h>
+	"parser.h"
+	"LinkedList.h"
+	"pelicula.h"
+
+1562771032 source:d:\sielach.cristian\sielach.cristian\pelicula.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pelicula.h"
+	"LinkedList.h"
+
+1562771032 source:d:\sielach.cristian\sielach.cristian 10-07-2019\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1562771032 d:\sielach.cristian\sielach.cristian 10-07-2019\linkedlist.h
+
+1562771704 source:d:\sielach.cristian\sielach.cristian 10-07-2019\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"pelicula.h"
+	"parser.h"
+
+1562771032 d:\sielach.cristian\sielach.cristian 10-07-2019\pelicula.h
+
+1562771032 d:\sielach.cristian\sielach.cristian 10-07-2019\parser.h
+
+1562771032 source:d:\sielach.cristian\sielach.cristian 10-07-2019\parser.c
+	<stdlib.h>
+	<stdio.h>
+	"parser.h"
+	"LinkedList.h"
+	"pelicula.h"
+
+1562771032 source:d:\sielach.cristian\sielach.cristian 10-07-2019\pelicula.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pelicula.h"
+	"LinkedList.h"
+
